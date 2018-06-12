@@ -1,0 +1,5 @@
+node_modules
+server/src/github.com
+server/src/golang.org
+server/pkg/app
+server/bin
